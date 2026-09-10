@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.credentials/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.swiftpm/
+.build/
+work/
+outputs/
+data/
+exports/
+*.sqlite
+*.sqlite3
+*.db
